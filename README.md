@@ -1,2 +1,0 @@
-# ecom-
-# Ecom Cursor Project
