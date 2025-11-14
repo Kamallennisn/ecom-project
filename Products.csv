@@ -1,0 +1,81 @@
+product_id,product_name,category,price,stock_quantity
+1,Curtain Modern,Home & Garden,257.3,472
+2,Sweater Premium,Clothing,60.07,276
+3,Diapers Premium,Baby Products,927.09,434
+4,Bicycle Classic,Sports & Outdoors,490.77,109
+5,Car Seat Pro,Baby Products,172.98,1
+6,Vitamins Modern,Health & Beauty,292.39,356
+7,Anklet Standard,Jewelry,197.99,111
+8,Smartphone Elite,Electronics,66.58,299
+9,Oil Filter Pro,Automotive,961.16,41
+10,Stroller Premium,Baby Products,599.07,345
+11,Baby Bottle Classic,Baby Products,128.68,455
+12,Leash Pro,Pet Supplies,623.18,214
+13,Binder Basic,Office Supplies,212.21,366
+14,LEGO Set Basic,Toys & Games,401.82,343
+15,Printer Paper Modern,Office Supplies,323.01,384
+16,Table Pro,Furniture,463.69,288
+17,Jeans Deluxe,Clothing,510.82,67
+18,Bed Frame Premium,Furniture,880.47,189
+19,Biography Modern,Books,835.4,360
+20,Novel Basic,Books,932.43,53
+21,Sofa Basic,Furniture,124.26,54
+22,Earrings Basic,Jewelry,288.93,107
+23,Pendant Deluxe,Jewelry,690.61,436
+24,Poetry Basic,Books,906.27,433
+25,Laptop Classic,Electronics,831.04,22
+26,Camera Standard,Electronics,640.73,134
+27,Mirror Classic,Home & Garden,565.29,57
+28,Jacket Pro,Clothing,836.24,298
+29,Chocolate Classic,Food & Beverages,136.16,157
+30,Board Game Elite,Toys & Games,217.97,127
+31,Pen Set Elite,Office Supplies,782.31,452
+32,Car Seat Standard,Baby Products,926.5,121
+33,Stroller Standard,Baby Products,882.59,12
+34,Rug Classic,Home & Garden,804.2,442
+35,Bracelet Basic,Jewelry,167.6,359
+36,Hat Pro,Clothing,860.0,113
+37,Fitness Tracker Elite,Sports & Outdoors,312.13,407
+38,Baby Bottle Deluxe,Baby Products,33.42,98
+39,Face Mask Basic,Health & Beauty,865.7,495
+40,Flute Elite,Musical Instruments,645.06,204
+41,Binder Pro,Office Supplies,124.18,496
+42,Biography Basic,Books,47.86,305
+43,Face Mask Elite,Health & Beauty,442.02,261
+44,Hat Deluxe,Clothing,262.17,362
+45,Shampoo Deluxe,Health & Beauty,370.57,35
+46,Binder Elite,Office Supplies,666.74,63
+47,Watch Basic,Jewelry,670.21,167
+48,Vitamins Standard,Health & Beauty,199.91,340
+49,Perfume Basic,Health & Beauty,412.0,426
+50,Smart Watch Basic,Electronics,218.07,402
+51,Fish Tank Modern,Pet Supplies,447.36,345
+52,Fitness Tracker Standard,Sports & Outdoors,662.25,145
+53,Cereal Premium,Food & Beverages,820.23,384
+54,Backpack Deluxe,Sports & Outdoors,808.49,75
+55,Smartphone Deluxe,Electronics,984.09,312
+56,Baby Clothes Modern,Baby Products,420.29,322
+57,Leash Classic,Pet Supplies,499.42,124
+58,Lamp Premium,Home & Garden,780.63,112
+59,Mirror Pro,Home & Garden,561.82,469
+60,Baby Clothes Modern,Baby Products,142.0,237
+61,Binder Modern,Office Supplies,616.52,368
+62,Wardrobe Modern,Furniture,898.23,380
+63,High Chair Modern,Baby Products,266.59,126
+64,Pacifier Modern,Baby Products,630.47,140
+65,Tire Basic,Automotive,242.14,171
+66,Action Figure Standard,Toys & Games,159.31,196
+67,Earrings Deluxe,Jewelry,73.58,208
+68,Building Blocks Classic,Toys & Games,71.63,426
+69,Lipstick Pro,Health & Beauty,858.15,391
+70,Bird Cage Modern,Pet Supplies,15.83,180
+71,Atlas Classic,Books,542.83,376
+72,Snacks Modern,Food & Beverages,227.22,223
+73,Car Battery Classic,Automotive,342.76,347
+74,Keyboard Standard,Musical Instruments,842.09,470
+75,Lamp Classic,Home & Garden,595.96,339
+76,Laptop Classic,Electronics,144.33,236
+77,Lamp Basic,Home & Garden,385.3,108
+78,Phone Mount Elite,Automotive,763.61,194
+79,Atlas Basic,Books,836.55,240
+80,Smartphone Elite,Electronics,231.97,35

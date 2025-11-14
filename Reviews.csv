@@ -1,0 +1,86 @@
+review_id,product_id,customer_id,rating,review_date,review_text
+1,42,73,5,2023-03-28,Excellent quality and fast shipping.
+2,20,21,5,2023-02-20,"Not what I expected, but okay."
+3,35,57,4,2024-05-12,"Could be improved, but acceptable."
+4,57,54,3,2023-08-09,Not worth the price.
+5,15,45,4,2023-04-24,"Decent product, nothing special."
+6,76,63,5,2024-11-14,"Decent product, nothing special."
+7,6,29,4,2024-09-05,Excellent quality and fast shipping.
+8,1,27,3,2023-08-05,Very satisfied with this purchase.
+9,33,38,3,2023-05-03,"Great product, highly recommend!"
+10,64,56,2,2023-05-13,"Works as described, happy with purchase."
+11,69,30,5,2024-07-26,"Poor quality, would not recommend."
+12,10,51,1,2024-03-22,"Great product, highly recommend!"
+13,59,10,3,2024-08-12,Great customer service and product.
+14,74,52,4,2023-10-24,Amazing value for money!
+15,52,3,3,2023-06-25,"Could be improved, but acceptable."
+16,59,47,1,2024-03-23,Amazing value for money!
+17,32,56,5,2024-02-15,Not worth the price.
+18,11,51,3,2023-12-14,Disappointed with the quality.
+19,43,22,1,2024-06-06,Amazing value for money!
+20,68,66,2,2023-12-24,"Poor quality, would not recommend."
+21,19,31,1,2023-05-30,Love it! Will buy again.
+22,26,23,5,2023-06-06,"Not what I expected, but okay."
+23,23,64,4,2024-07-31,Very happy with this item.
+24,58,73,5,2023-11-27,Exceeded my expectations!
+25,20,57,1,2024-04-25,"Average product, does the job."
+26,39,36,5,2023-02-27,"Poor quality, would not recommend."
+27,65,10,3,2024-04-17,"Average product, does the job."
+28,5,8,3,2023-10-21,"Not what I expected, but okay."
+29,12,65,4,2024-04-18,Very happy with this item.
+30,71,6,4,2024-08-08,Perfect for my needs.
+31,42,61,5,2023-06-04,Excellent quality and fast shipping.
+32,58,14,3,2023-03-28,Not worth the price.
+33,23,6,2,2024-12-25,"Average product, does the job."
+34,57,68,5,2024-09-16,"Good product, could be better."
+35,47,48,3,2024-02-01,Great customer service and product.
+36,44,7,3,2023-03-09,Exceeded my expectations!
+37,13,72,4,2023-10-18,Love it! Will buy again.
+38,78,20,3,2023-03-25,Very happy with this item.
+39,19,45,3,2024-11-02,"Works as described, happy with purchase."
+40,17,11,3,2024-07-26,"Works as described, happy with purchase."
+41,43,17,5,2023-04-06,Great customer service and product.
+42,66,47,1,2024-01-07,"Decent product, nothing special."
+43,24,28,3,2024-05-12,Perfect for my needs.
+44,29,18,2,2023-03-21,"Decent product, nothing special."
+45,13,65,5,2024-06-23,Excellent quality and fast shipping.
+46,44,17,5,2024-01-21,Very satisfied with this purchase.
+47,21,24,5,2023-06-19,"Average product, does the job."
+48,6,53,3,2024-11-23,Disappointed with the quality.
+49,57,37,4,2023-08-28,"Good quality, fast delivery."
+50,31,40,4,2023-07-18,"Poor quality, would not recommend."
+51,74,57,4,2023-10-16,"Works as described, happy with purchase."
+52,65,68,4,2023-06-15,Perfect for my needs.
+53,78,18,3,2023-02-23,Fantastic! Better than expected.
+54,48,71,1,2024-12-29,Not worth the price.
+55,16,37,1,2023-06-14,Love it! Will buy again.
+56,58,66,2,2024-03-23,"Not what I expected, but okay."
+57,29,58,3,2023-01-28,Great customer service and product.
+58,7,51,5,2024-01-18,Disappointed with the quality.
+59,50,11,3,2023-08-18,"Great product, highly recommend!"
+60,41,13,3,2023-05-30,Very satisfied with this purchase.
+61,5,37,4,2024-12-13,Very satisfied with this purchase.
+62,61,58,5,2023-01-06,"Not what I expected, but okay."
+63,3,33,2,2023-06-03,"Good quality, fast delivery."
+64,78,68,4,2023-04-24,"Decent product, nothing special."
+65,31,39,1,2023-02-18,Disappointed with the quality.
+66,54,59,1,2023-04-24,Fantastic! Better than expected.
+67,77,69,1,2024-10-09,Not worth the price.
+68,74,31,2,2023-10-26,Great customer service and product.
+69,1,46,2,2024-08-07,Great customer service and product.
+70,24,11,5,2024-01-05,"Not what I expected, but okay."
+71,68,70,5,2024-06-03,"Good quality, fast delivery."
+72,3,50,4,2023-02-14,"Works as described, happy with purchase."
+73,48,33,1,2024-01-01,"Not what I expected, but okay."
+74,45,31,1,2024-08-18,Exceeded my expectations!
+75,18,6,3,2024-07-13,Exceeded my expectations!
+76,23,60,4,2024-10-08,"Good product, could be better."
+77,18,9,4,2023-02-07,"Decent product, nothing special."
+78,26,6,2,2023-02-12,Exceeded my expectations!
+79,40,66,4,2024-07-10,Fantastic! Better than expected.
+80,33,5,2,2023-10-20,"Poor quality, would not recommend."
+81,7,43,3,2023-05-08,"Poor quality, would not recommend."
+82,56,52,4,2024-01-31,Exceeded my expectations!
+83,24,64,4,2024-01-12,Not worth the price.
+84,35,11,4,2023-03-22,Great customer service and product.
+85,78,24,5,2023-10-28,Exceeded my expectations!
